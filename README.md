@@ -30,20 +30,26 @@ Lucas Bizzaro
 * From facebook of the person
 * Weather
 * Have a button take picture, then search up on internet for similar pics/info
+
 ### Muscle fatigue tracking suite
 * Using EMG  to track signal
 * Display info on phone or something
+
 ### Party controller
 * Set party mode
 * Set music, lighting
+
 ### Smart bike rack
 * Swipe the ID card, if the bike info matches and there is opening, lock
 * Student can add other student ID on there for access
+
 ### Video chatting mirror
 * Would use heads up display technology
 * Touch screen?
+
 ## Force measuring boxing gloves
 * Put a pressure sensor and an accelerometer into the gloves
+
 ### Belt that integrates with Google Maps that vibrates for bikers; maybe can keep track of blindspot
 * Actually, scratch that. You have a Pi Board on the top of the bike that has an HUD with salient information about exercise stuff (so it has the salient info of an exercise bike), etc. vibrates on the handlebar with the Google Maps, and automatically flashes the LED in low light situations. Maybe a rearview mirror? Left and right turn signals, you can track location of this pi if it gets lost
 * Bike pedaling charges battery pack when not in use
@@ -51,15 +57,20 @@ Lucas Bizzaro
 * Rap around on handlebar, when not using, wrap around the wrist
 * Vibration wouldnt work, LED may be good
 * How are we going to get GPS data? Pure distance? Or how to extract information from google map?
+
 ### Make an AI that talks back (akhil this is shitty idea lol)
+
 ### Raspberry Pi Dialysis Machine
+
 ### Smart toilet
 * Trackes urine volume
 * Determines turbidity viscosity/concentration
+
 ### Leave room reminder
 * Ask you bunch of question before leaving room (key? lights?)
 * Take a pic for fun
 * Could be a key hanger that releases key only after you said what it likes 
+
 ### Foot pressure sensing pads
 * Measure different pressure at different location of foot using straing gages
 * Get bunch of biometric data including steps, walking style, perhaps can infer mood from the data
