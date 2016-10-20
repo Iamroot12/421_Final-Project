@@ -13,6 +13,7 @@ Lucas Bizzaro
 * Make phonecall
 * Display speed, display gas info
 * Combine with windshield headsup display
+
 ### 3D printer
 * Know when it fails, alert
 * Correct layer shift and fix it
@@ -22,6 +23,7 @@ Lucas Bizzaro
 * Automatic bed leveling
 * Change flow setting automatically to correct for the failure
 * If the motor skips steps, it fixes it. 
+
 ###Google glass
 * Facial recognition
 * Display information 
