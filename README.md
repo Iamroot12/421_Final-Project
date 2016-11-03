@@ -47,8 +47,8 @@ Lucas Bizzaro
 * Would use heads up display technology
 * Touch screen?
 
-## **Force measuring boxing gloves
-* **Put a pressure sensor and an accelerometer into the gloves
+## **Force measuring boxing gloves**
+* **Put a pressure sensor and an accelerometer into the gloves**
 
 ### Belt that integrates with Google Maps that vibrates for bikers; maybe can keep track of blindspot
 * Actually, scratch that. You have a Pi Board on the top of the bike that has an HUD with salient information about exercise stuff (so it has the salient info of an exercise bike), etc. vibrates on the handlebar with the Google Maps, and automatically flashes the LED in low light situations. Maybe a rearview mirror? Left and right turn signals, you can track location of this pi if it gets lost
