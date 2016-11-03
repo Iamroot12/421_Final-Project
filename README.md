@@ -3,6 +3,7 @@ Rice Bioe 421/521 Final Project
 
 # Abstract
   The finalized device will be a boxing glove attachment that can log the maximum force and velocity of the user's punch. This will be very useful for training and exercise purposes as it will allow the user to document and thus improve their punches. During a boxing workout it is difficult to make sure you are still going full force once you start getting tired. Having something let you know that your punches are getting weaker and notifying you would be very helpful. Also, having it log your data during each session will allow you to track your progress over the course of time. 
+  
 The device will primarily run on a Circuit Playground (CP) and have other components connected to it. The Circuit Playground is very useful because it already contains an accelerometer for measurements and can communicate with the wearer using lights and sounds. It will be attached to the arm using an arm band. A capacitive force sensor will be attached along the front of the glove to measure the force of impact. In addition to measuring force, the device will use the accelerometer in the CP to signal when contact occurs and will provide information to determine the speed of the throw. In order to store the info, there will be a data logger attached to the CP. Finally, the user will be able to move the information to their computer for a visual representation of force, velocity, and time.
 
 
