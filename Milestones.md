@@ -12,6 +12,13 @@
  * changed code structure to allow for ongoing stream of background data and then the impact interrupts and spits out time and accel data
  * researched and purchased force sensors and data loggers
 * Nov. 3rd - Connect pressure sensors and make them work/ Understand how to send data through processing and make it look nice
+ * orders have not arrived yet - work on processing
+ * was able to get extremely simple graphics on processing from serial data
+ * downloaded graphing package called gicentreutils
+ * changed to opencv as graphing software for logged data
+ * trying to record velocity of glove
+ * using V = Vo + at with a dt of 1ms in the loop function for arduino
+ * able to measure velocity but the accelerometer is not very accurate
 * Nov. 10th - Depends on if pressure sensors arrived in time or not (finish tasks from previous week) / determine if circuit playground has accurate enough accelerometer
 * Nov. 17th - Complete data logging system in place
 * Nov. 22nd - Complete and nice attachment to boxing glove
