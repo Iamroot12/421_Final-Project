@@ -11,3 +11,9 @@
  * used millis() command to record the milliseconds and substracts out the start time to make it relative
  * changed code structure to allow for ongoing stream of background data and then the impact interrupts and spits out time and accel data
  * researched and purchased force sensors and data loggers
+ * Nov. 3rd - Connect pressure sensors and make them work/ Understand how to send data through processing and make it look nice
+ * Nov. 10th - Depends on if pressure sensors arrived in time or not (finish tasks from previous week)
+ * Nov. 17th - Complete data logging system in place
+ * Nov. 22nd - Complete and nice attachment to boxing glove
+ * Nov. 29th - Everything must be 100% complete
+ 
