@@ -21,6 +21,7 @@
  * able to measure velocity but the accelerometer is not very accurate
  * basic force sensors, more precise accelerometer, data logger, and SD card arrived
  * able to make force sensing circuit and have it work with circuit playground
+ * I need to move to the arduino uno for more pins, plus I dont need the built in accelerometer
 * Nov. 10th - Depends on if pressure sensors arrived in time or not (finish tasks from previous week) / determine if circuit playground has accurate enough accelerometer
 * Nov. 17th - Complete data logging system in place
 * Nov. 22nd - Complete and nice attachment to boxing glove
