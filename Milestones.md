@@ -22,7 +22,14 @@
  * basic force sensors, more precise accelerometer, data logger, and SD card arrived
  * able to make force sensing circuit and have it work with circuit playground
  * I need to move to the arduino uno for more pins, plus I dont need the built in accelerometer
-* Nov. 10th - Depends on if pressure sensors arrived in time or not (finish tasks from previous week) / determine if circuit playground has accurate enough accelerometer
+* Nov. 10th - Connect Data logger and figure out how to configure more precise force sensor
+ * soldered and connected external accelerometer to uno
+ * hard coded the calibration for the accelerometer by adding or subtracting offset values
+ * able to create proof of concept that spits out speed and force values during impact, also lights up LED
+ * differences in speeds are clearly registered
+ * use 'better uno glove' code
+ * Possibly call device the 'One Punch'?
+ * looking into data logger use
 * Nov. 17th - Complete data logging system in place
 * Nov. 22nd - Complete and nice attachment to boxing glove
 * Nov. 29th - Everything must be 100% complete
