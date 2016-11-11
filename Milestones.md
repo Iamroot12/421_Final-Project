@@ -29,7 +29,14 @@
  * differences in speeds are clearly registered
  * use 'better uno glove' code
  * Possibly call device the 'One Punch'?
- * looking into data logger use
+ * looking into data logger use - https://learn.adafruit.com/adafruit-micro-sd-breakout-board-card-tutorial/wiring
+ * formatted SD card - https://www.sdcard.org/downloads/formatter_4/index.html
+ * capacitive force sensor did not come with I2C board connector
+ * looking into using flexiforce sensor from Miller Lab
+ * need to figure out op amp change because I couldn't find the same op amp that was previously used
+ * found an op amp that works
+ * realized that the force sensor from the lab only has a range till 1 lb but I need like 100 lb
+ * should get attachment for capacitor sensor
 * Nov. 17th - Complete data logging system in place
 * Nov. 22nd - Complete and nice attachment to boxing glove
 * Nov. 29th - Everything must be 100% complete
