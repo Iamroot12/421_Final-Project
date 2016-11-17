@@ -38,6 +38,13 @@
  * realized that the force sensor from the lab only has a range till 1 lb but I need like 100 lb
  * should get attachment for capacitor sensor
 * Nov. 17th - Complete data logging system in place
+ * still waiting for good force sensor connector to come in
+ * finished connecting the data logger
+ * new information appends to the file and says New Round at the top of new info
+ * changed accelerometer code to take in offset value at setup
+ * -Problem- accelerometer decalibrates if orientation changes
+ * I think it should be fine as long as it is calibrated in punch orientation bec/ error goes away when in correct orientation again
+ * Still need to graph data, connect to glove, and calibrate better sensor
 * Nov. 22nd - Complete and nice attachment to boxing glove
 * Nov. 29th - Everything must be 100% complete
  
