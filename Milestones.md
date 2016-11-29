@@ -46,5 +46,14 @@
  * I think it should be fine as long as it is calibrated in punch orientation bec/ error goes away when in correct orientation again
  * Still need to graph data, connect to glove, and calibrate better sensor
 * Nov. 22nd - Complete and nice attachment to boxing glove
+ * The new pressure sensor connector came in but it requires the use of a computer for all functionality
+ * I'll stay with the older sensor
+ * Finished coding python for graphing that finds the last round and seperates the information into vectors and then graphs
+ * I changed the resistor to 100 Ω in the FSR circuit to increase the sensitivity
+ * Connected everything to the glove and make sure it works
+ * Moved some things around on the breadboard for better usability, like the data logger to the opening for easy acces to the SD card
+ * A running armband contains all of the electronics
 * Nov. 29th - Everything must be 100% complete
+ * a couple finishing touches, system works well
+ * the system is only conncected to the computer for power
  
